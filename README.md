@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @General-Xamor
-- 👀 I’m interested in Hacking
+- 👋 Hi, I’m Priyangshu Nath
+- 👀 I’m interested in Web Development and BlockChain.
 - 🌱 I’m currently on earth
 - 💞️ I’m looking to collaborate with anyone who is not dumb as me.
 - 📫 How to reach me .......
